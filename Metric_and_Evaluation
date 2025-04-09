@@ -1,0 +1,40 @@
+Target is used for selection of regression or classifcaiton
+Feature is used for selection of model (various types)
+Model can be choose based upon the
+   1. linear and 2. non-linear input or feature data
+
+
+Visualization:(2d)
+
+1. Uni-Variate ---> drawing a graph with only one x data(x)
+2. Bi-Variate  ---> we need two data to be drawn on the char (x and y)
+
+Library: Seaborn and Matplotlib (dash and plotly)
+
+Sales  Country
+1000      India
+2000      US
+1300      Russia
+1400      Germany
+1900      India
+1000      US
+1400      Russia
+
+Aggregation:
+
+sum() India (1000 + 1900)
+count()
+average() ---> mean()
+
+Statistics:
+
+mean()
+median()
+mode()
+std()
+
+distribution
+probability
+hypothestis
+
+
